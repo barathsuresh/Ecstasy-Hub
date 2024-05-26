@@ -1,4 +1,4 @@
-# ecstacy_hub
+# ecstasy_hub
 
 where music meets drug
 
